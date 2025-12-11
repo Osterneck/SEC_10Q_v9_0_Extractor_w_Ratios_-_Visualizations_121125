@@ -1,1 +1,1 @@
-this is version_1.0 of my jn ipnyb program which will: allow you (the user,) to parse-&-extract the BalanceSheet, IncomeStatement, and, CF-Statement from any SEC-EDGAR quarterly 10q filing. 
+this is version_2.0 of my jn ipnyb code which: allows you (the user,) to parse-&-extract: BalanceSheet, IncomeStatement, CF-Statement, and, have that data automatically converted to 21 financial, liquidity, and accounting ratios, from any SEC-EDGAR quarterly 10q filing, downloaded to your local-machine in via xlsx. 
